@@ -10,5 +10,5 @@ export default defineConfig({
       components: '/src/components',
     },
   },
-  base: '/project-fs191023-fe',
+  base: '/fs-79-react-node-kondyan2022',
 });
